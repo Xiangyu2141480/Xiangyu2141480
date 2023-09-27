@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning maddpg
 - 💞️ I’m looking to collaborate on programs
 - 📫 reach me in wechat cui2794555236
+- ![Xiangyu.Cui](https://github.com/Xiangyu2141480/Xiangyu2141480/assets/137604408/480309ae-43ea-4dd7-891d-7e59330c7892)
+
 
 <!---
 Xiangyu2141480/Xiangyu2141480 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
