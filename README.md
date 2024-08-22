@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning about Mutiagent Model/Algorithm
 - 💞️ I’m looking to collaborate on programs
 - 📫 reach me in wechat cui2794555236
-- ![Xiangyu.Cui](https://github.com/Xiangyu2141480/Xiangyu2141480/assets/137604408/480309ae-43ea-4dd7-891d-7e59330c7892)
+<img src="https://github.com/Xiangyu2141480/Xiangyu2141480/assets/137604408/480309ae-43ea-4dd7-891d-7e59330c7892" alt="Xiangyu Cui" width="300"/>
+
 
 
 <!---
