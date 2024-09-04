@@ -18,7 +18,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-<img src="https://media.giphy.com/media/l3vRnR3SF3D8K/giphy.gif" alt="Learning Gif" width="300"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Learning Gif" width="300"/>
 
 ## 📚 Currently Learning:
 - Multiagent Models/Algorithms
