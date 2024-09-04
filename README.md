@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on programs
 - 📫 Reach me on WeChat: cui2794555236
 
-## 🔧 My Tech Stack:
+## 🔧 My Tech Stack: (Keep Learning Now!)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
@@ -34,6 +34,7 @@
 
 ## 📫 How to Reach Me:
 - WeChat: cui2794555236
+- Email: 2794555236@qq.com; Xiangyu.Cui21@student.xjtlu.edu.cn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=radical)
 
