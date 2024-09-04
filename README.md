@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on programs
 - 📫 Reach me on WeChat: cui2794555236
 
-## 🔧 My Tech Stack: (Keep Learning Now!)
+## 🔧 My Tech Stack: (Keep Learning!)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
