@@ -46,16 +46,14 @@
   
   <br/>
   
+  <img src="https://img.shields.io/badge/-Power%20Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power Query"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="Latex"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
+<br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xiangyu2141480&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="Xiangyu's Trophies" />
+  <sub>Thanks for visiting! Let's connect and code. 🚀</sub>
 </div>
