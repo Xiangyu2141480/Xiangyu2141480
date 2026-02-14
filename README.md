@@ -1,7 +1,9 @@
 <div align="center">
   
-  <h1>Hi there, I'm Xiangyu 👋</h1>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=654AF7&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish.;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+  </a>
+
   <h3>Postgraduate Student at University College London (UCL) 🇬🇧</h3>
   <p>
     <b>Multiagent Systems Researcher & Developer</b><br/>
@@ -15,9 +17,7 @@
     <a href="https://www.ucl.ac.uk/">
       <img src="https://img.shields.io/badge/UCL-University%20College%20London-000000?style=flat-square&logo=google-scholar&logoColor=white" alt="UCL Student" />
     </a>
-    <a href="https://github.com/Xiangyu2141480">
-      <img src="https://img.shields.io/badge/GitHub-Xiangyu2141480-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <img src="https://img.shields.io/badge/WeChat-Caspian021003-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
   </p>
 </div>
 
@@ -29,7 +29,7 @@
 - 🔭 **Research Interest:** Multiagent Models/Algorithms & Machine Learning.
 - 🛠️ **Technical Focus:** Advanced Python Techniques & Computational Modeling.
 - 🤝 **Collaboration:** Open to academic research and open-source projects in AI.
-- 📫 **Reach me:** via WeChat (`cui2794555236`) or Email.
+- 📫 **Reach me:** via WeChat (`Caspian021003`) or Email.
 
 ---
 
@@ -56,14 +56,6 @@
 ### 📊 Coding Activity
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=minimal&hide_border=true&count_private=true&hide_title=true" alt="Xiangyu's Stats" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiangyu2141480&layout=compact&theme=minimal&hide_border=true&hide_title=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiangyu2141480&layout=compact&theme=minimal&hide_border=true" height="150" alt="Langs" />
 </div>
