@@ -1,10 +1,11 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=654AF7&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish.;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=654AF7&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish.;Code+is+Poetry.;Building+Multiagent+Systems." alt="Typing SVG" />
   </a>
 
-  <h3>Postgraduate Student at University College London (UCL) 🇬🇧</h3>
+  <h1>Hi there, I'm Xiangyu 👋</h1>
+  <h3>MSc Student at University College London (UCL) 🇬🇧</h3>
   <p>
     <b>Multiagent Systems Researcher & Developer</b><br/>
     Focusing on AI Algorithms, Python, and System Architecture
@@ -15,7 +16,7 @@
       <img src="https://img.shields.io/badge/Email-2794555236%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.ucl.ac.uk/">
-      <img src="https://img.shields.io/badge/UCL-University%20College%20London-000000?style=flat-square&logo=google-scholar&logoColor=white" alt="UCL Student" />
+      <img src="https://img.shields.io/badge/UCL-MSc%20Student-000000?style=flat-square&logo=google-scholar&logoColor=white" alt="UCL Master" />
     </a>
     <img src="https://img.shields.io/badge/WeChat-Caspian021003-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
   </p>
@@ -25,7 +26,7 @@
 
 ### 🧐 About Me
 
-- 🏛️ **Current Status:** Pursuing a Master's degree at **University College London (UCL)**.
+- 🏛️ **Current Status:** MSc Candidate at **University College London (UCL)**.
 - 🔭 **Research Interest:** Multiagent Models/Algorithms & Machine Learning.
 - 🛠️ **Technical Focus:** Advanced Python Techniques & Computational Modeling.
 - 🤝 **Collaboration:** Open to academic research and open-source projects in AI.
@@ -53,9 +54,8 @@
 
 ---
 
-### 📊 Coding Activity
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiangyu2141480&layout=compact&theme=minimal&hide_border=true" height="150" alt="Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xiangyu2141480&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="Xiangyu's Trophies" />
 </div>
