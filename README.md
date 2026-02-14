@@ -1,43 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=654AF7&width=435&lines=Stay+hungry%2C+stay+foolish.)](https://git.io/typing-svg)
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=654AF7&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish.;Code+is+Poetry.;Building+Multiagent+Systems." alt="Typing SVG" />
+  </a>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Gif" width="300"/>
+  <br/>
+  <img src="https://github.com/Xiangyu2141480/Xiangyu2141480/assets/137604408/480309ae-43ea-4dd7-891d-7e59330c7892" width="150" style="border-radius: 50%;" alt="Xiangyu Profile"/>
+  
+  <h1>Hi there, I'm Xiangyu 👋</h1>
+  <p>
+    <b>Researcher & Developer</b> <br/>
+    Focusing on Multiagent Systems & AI Algorithms
+  </p>
 
-- 👋 Hi, I’m @Xiangyu2141480
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning about Multiagent Model/Algorithm
-- 💞️ I’m looking to collaborate on programs
-- 📫 Reach me on WeChat: cui2794555236
+  <p>
+    <a href="mailto:2794555236@qq.com">
+      <img src="https://img.shields.io/badge/Email-2794555236%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="mailto:Xiangyu.Cui21@student.xjtlu.edu.cn">
+      <img src="https://img.shields.io/badge/School-XJTLU-162738?style=flat-square&logo=microsoft-academic&logoColor=white" alt="School Email" />
+    </a>
+  </p>
+</div>
 
-## 🔧 My Tech Stack: (Keep Learning!)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+---
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Fun Gif" width="300"/>
+### 🧐 About Me
 
-## 📚 Currently Learning:
-- Multiagent Models/Algorithms
-- Advanced Python Techniques
-- Machine Learning and AI
+- 🔭 **Current Focus:** Researching **Multiagent Models/Algorithms** & **Machine Learning**.
+- 🌱 **Learning:** Advanced Python Techniques & System Architecture.
+- 🤝 **Collaboration:** Open to open-source projects & research in multiagent systems.
+- 💬 **Ask me about:** Python, Agent-based Modeling, and Data Analysis.
 
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Collaboration Gif" width="300"/>
+---
 
-## 🤝 Looking to Collaborate On:
-- Open-source projects
-- Coding challenges
-- Research in multiagent systems
+### 🛠️ Tech Arsenal
 
-## 📫 How to Reach Me:
-- WeChat: cui2794555236
-- Email: 2794555236@qq.com; Xiangyu.Cui21@student.xjtlu.edu.cn
+<div align="center">
+  
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R"/>
+  
+  <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=radical)
+  <b>Tools & Core</b><br/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="Matlab"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white" alt="Latex"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiangyu2141480&layout=compact&theme=radical)
+</div>
 
-<img src="https://github.com/Xiangyu2141480/Xiangyu2141480/assets/137604408/480309ae-43ea-4dd7-891d-7e59330c7892" alt="Xiangyu Cui" width="300"/>
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Xiangyu's Stats" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiangyu2141480&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Xiangyu2141480&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="3" />
+</div>
+
+<div align="center">
+  <sub>Let's connect and build something amazing together! 🚀</sub>
+  <br/>
+  <sub>WeChat: cui2794555236</sub>
+</div>
